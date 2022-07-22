@@ -60,7 +60,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   }
   
   .flip-card-back {
-    background-color: #efa037;
+    /* background-color: #efa037; */
+    background-color: #37abef;
     color: white;
     transform: rotateY(180deg);
   }
