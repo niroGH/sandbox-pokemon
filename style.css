@@ -1,4 +1,7 @@
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+}
+
 
 .image-container {
   background-image: url("https://wallpapercave.com/uwp/uwp296238.jpeg");
@@ -8,7 +11,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 .text {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   color: black;
   font-size: 9vw; 
   font-weight: bold;
